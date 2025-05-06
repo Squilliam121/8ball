@@ -2,7 +2,7 @@ const button = document.querySelector('button');
 const bg = document.getElementById('bg');
 const main = document.getElementById('main');
 
-const choices = ["Yes", "No", "Sure", "Never", "Heck yeah", "Not in a million years", "Yes, ask out that girl", "0% Certainty", "YES YES YES", "Maybe", "50/50", "Without a doubt", "Not sure", "It's, complicated...", "Don't count on it", "Nah bro"]
+const choices = ["Yes", "No", "Sure", "Never", "Heck yeah", "Not in a million years", "Yes, ask out that girl", "0% Certainty", "YES YES YES", "Maybe", "50/50", "Without a doubt", "Not sure", "It's, complicated...", "Don't count on it", "Nah bro", "I like cheese", "Yes Pookie <3", "🍠🍠🍠 No more no less", "😘", "In your dreams", "🏠 Free house for you", "I curse you with crippling credit card debt"]
 
 let selected = false
 
